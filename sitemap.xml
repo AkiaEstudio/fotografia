@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://akiaestudio.com/index.html</loc>
-    <lastmod>2018-06-26</lastmod>
+    <lastmod>2018-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,9 +10,6 @@
     </image:image>
     <image:image>
       <image:loc>http://akiaestudio.com/images/imagen%20(2)-crop-u2830.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://akiaestudio.com/images/user.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://akiaestudio.com/images/iniciopie3.png</image:loc>
@@ -32,7 +29,7 @@
   </url>
   <url>
     <loc>http://akiaestudio.com/servicios.html</loc>
-    <lastmod>2018-06-26</lastmod>
+    <lastmod>2018-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -56,31 +53,31 @@
   </url>
   <url>
     <loc>http://akiaestudio.com/contacto.html</loc>
-    <lastmod>2018-06-26</lastmod>
+    <lastmod>2018-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://akiaestudio.com/images/aquia%20logo-01.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://akiaestudio.com/images/imagen%20(4)-crop-u22653.jpg</image:loc>
+      <image:loc>http://akiaestudio.com/images/antique-aperture-blur-370659-crop-u22653.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://akiaestudio.com/images/imagen%20(4)-crop-u226532.jpg</image:loc>
+      <image:loc>http://akiaestudio.com/images/antique-aperture-blur-370659-crop-u226532.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://akiaestudio.com/images/imagen%20(4)-crop-u226533.jpg</image:loc>
+      <image:loc>http://akiaestudio.com/images/antique-aperture-blur-370659-crop-u226533.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://akiaestudio.com/images/imagen%20(4)-crop-u226534.jpg</image:loc>
+      <image:loc>http://akiaestudio.com/images/antique-aperture-blur-370659-crop-u226534.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://akiaestudio.com/images/imagen%20(4)-crop-u226535.jpg</image:loc>
+      <image:loc>http://akiaestudio.com/images/antique-aperture-blur-370659-crop-u226535.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://akiaestudio.com/nosotros.html</loc>
-    <lastmod>2018-06-26</lastmod>
+    <lastmod>2018-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -92,7 +89,7 @@
   </url>
   <url>
     <loc>http://akiaestudio.com/lugares.html</loc>
-    <lastmod>2018-06-26</lastmod>
+    <lastmod>2018-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

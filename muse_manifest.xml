@@ -1,18 +1,18 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="akiaestudio.com" resolutions="1x" timestamp="1530055765177">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="akiaestudio.com" resolutions="1x" timestamp="1530206093922">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-p_g_-maestra.css" crc="360517242" ref="contacto:nosotros:index:servicios:lugares"/>
-    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="contacto:nosotros:index:servicios:lugares"/>
-    <file name="contacto.css" crc="148315879" ref="contacto"/>
-    <file name="nomq_contacto.css" crc="367371491" ref="contacto"/>
-    <file name="nosotros.css" crc="4139747722" ref="nosotros"/>
-    <file name="nomq_nosotros.css" crc="3905113368" ref="nosotros"/>
-    <file name="index.css" crc="294584273" ref="index"/>
-    <file name="nomq_index.css" crc="4122169629" ref="index"/>
-    <file name="servicios.css" crc="3951059691" ref="servicios"/>
+    <file name="master_a-p_g_-maestra.css" crc="3869165778" ref="servicios:lugares:index:contacto:nosotros"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="servicios:lugares:index:contacto:nosotros"/>
+    <file name="servicios.css" crc="49638846" ref="servicios"/>
     <file name="nomq_servicios.css" crc="182732968" ref="servicios"/>
-    <file name="lugares.css" crc="132438194" ref="lugares"/>
-    <file name="nomq_lugares.css" crc="4239537481" ref="lugares"/>
+    <file name="lugares.css" crc="68090763" ref="lugares"/>
+    <file name="nomq_lugares.css" crc="432835631" ref="lugares"/>
+    <file name="index.css" crc="214315680" ref="index"/>
+    <file name="nomq_index.css" crc="4122169629" ref="index"/>
+    <file name="contacto.css" crc="376058855" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="3891897859" ref="contacto"/>
+    <file name="nosotros.css" crc="4087070238" ref="nosotros"/>
+    <file name="nomq_nosotros.css" crc="3905113368" ref="nosotros"/>
   </folder>
   <folder name="assets">
     <file name="imagen-2.png" crc="328784236" seo="true" mt="1529682223000"/>
@@ -30,7 +30,7 @@
     <file name="jquery.musemenu.js" crc="493622299" ref="index:nosotros:lugares:servicios:contacto"/>
     <file name="jquery.watch.js" crc="460461809" ref="index:nosotros:lugares:servicios:contacto"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:nosotros:servicios"/>
-    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index:contacto"/>
     <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
     <file name="touchswipe.js" crc="4200445185" ref="index"/>
@@ -38,6 +38,10 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:nosotros:lugares:servicios:contacto"/>
     <file name="jquery.museresponsive.js" crc="4055310269" ref="index:nosotros:lugares:servicios:contacto"/>
     <file name="require.js" crc="3951022091" ref="index:nosotros:lugares:servicios:contacto"/>
+    <file name="form_check.php" crc="154010282" ref="contacto"/>
+    <file name="form_throttle.php" crc="266437015" ref="contacto"/>
+    <file name="form_process.php" crc="512629711" ref="contacto"/>
+    <file name="form-u32139.php" crc="365850637" ref="contacto"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:nosotros:lugares:servicios:contacto"/>
@@ -77,12 +81,6 @@
     <file name="imagen (2)-crop-u2830.jpg" crc="4148289749" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="user.svg" crc="4265292099" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="user_poster_.png" crc="3795213527" ref="index"/>
     <file name="lugares2.jpg" crc="528855648" ref="index"/>
     <file name="11-u16882-fr.png" crc="400549448" ref="index:nosotros:lugares:servicios:contacto"/>
     <file name="action-adult-blur-298298-u12694-fr.jpg" crc="164120184" ref="index"/>
@@ -257,25 +255,25 @@
     <file name="imagen (4)-crop-u223235.jpg" crc="4146123419" seo="true" ref="servicios">
       <caption webpage="servicios" alt=""/>
     </file>
-    <file name="imagen (4)-crop-u22653.jpg" crc="473642024" seo="true" ref="contacto">
+    <file name="antique-aperture-blur-370659-crop-u22653.jpg" crc="367344336" seo="true" ref="contacto">
       <caption webpage="contacto" alt=""/>
     </file>
-    <file name="imagen (4)-crop-u226532.jpg" crc="4146123419" seo="true" ref="contacto">
+    <file name="antique-aperture-blur-370659-crop-u226532.jpg" crc="3983976882" seo="true" ref="contacto">
       <caption webpage="contacto" alt=""/>
     </file>
-    <file name="imagen (4)-crop-u226533.jpg" crc="4146123419" seo="true" ref="contacto">
+    <file name="antique-aperture-blur-370659-crop-u226533.jpg" crc="3983976882" seo="true" ref="contacto">
       <caption webpage="contacto" alt=""/>
     </file>
-    <file name="imagen (4)-crop-u226534.jpg" crc="4146123419" seo="true" ref="contacto">
+    <file name="antique-aperture-blur-370659-crop-u226534.jpg" crc="3983976882" seo="true" ref="contacto">
       <caption webpage="contacto" alt=""/>
     </file>
-    <file name="imagen (4)-crop-u226535.jpg" crc="4146123419" seo="true" ref="contacto">
+    <file name="antique-aperture-blur-370659-crop-u226535.jpg" crc="3983976882" seo="true" ref="contacto">
       <caption webpage="contacto" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="285954307" seo="true" mt="1530055554350" redirect="true"/>
-  <file name="nosotros.html" crc="4252968967" seo="true" mt="1530055554350" redirect="true"/>
-  <file name="lugares.html" crc="330934952" seo="true" mt="1530055554350" redirect="true"/>
-  <file name="servicios.html" crc="324157569" seo="true" mt="1530055554350" redirect="true"/>
-  <file name="contacto.html" crc="210683529" seo="true" mt="1530055554350" redirect="true"/>
+  <file name="index.html" crc="181863745" seo="true" mt="1530205525140" redirect="true"/>
+  <file name="nosotros.html" crc="4073475576" seo="true" mt="1530205525140" redirect="true"/>
+  <file name="lugares.html" crc="176462437" seo="true" mt="1530205825327" redirect="true"/>
+  <file name="servicios.html" crc="164660553" seo="true" mt="1530205525140" redirect="true"/>
+  <file name="contacto.html" crc="4283491334" seo="true" mt="1530205525140" redirect="true"/>
 </manifest>
